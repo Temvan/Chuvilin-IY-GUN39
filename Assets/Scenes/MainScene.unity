@@ -768,6 +768,29 @@ PrefabInstance:
     m_AddedGameObjects: []
     m_AddedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: b0c6a90e324513b47bf9c6b3c41a8506, type: 3}
+--- !u!1 &103295927 stripped
+GameObject:
+  m_CorrespondingSourceObject: {fileID: 1816284468493644936, guid: 9ee577fb93b21654c86c20bd17e1bc07, type: 3}
+  m_PrefabInstance: {fileID: 7360838888477551854}
+  m_PrefabAsset: {fileID: 0}
+--- !u!111 &103295931
+Animation:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 103295927}
+  m_Enabled: 1
+  serializedVersion: 3
+  m_Animation: {fileID: 7400000, guid: bed9e51d5d5cf344fa4ab132805b81c9, type: 2}
+  m_Animations:
+  - {fileID: 7400000, guid: bed9e51d5d5cf344fa4ab132805b81c9, type: 2}
+  - {fileID: 7400000, guid: 081a250a97979c94d9dcb2bbf5f57926, type: 2}
+  - {fileID: 7400000, guid: 12bd7353c86f9da4ea778a7cbcbd4b43, type: 2}
+  m_WrapMode: 0
+  m_PlayAutomatically: 0
+  m_AnimatePhysics: 0
+  m_CullingType: 0
 --- !u!4 &103807813 stripped
 Transform:
   m_CorrespondingSourceObject: {fileID: 7891770020682985379, guid: e9de943b3432bef48b4e306fc1f564d3, type: 3}
@@ -15285,6 +15308,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: Canvas
       objectReference: {fileID: 0}
+    - target: {fileID: 938324617239219445, guid: 9ee577fb93b21654c86c20bd17e1bc07, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.z
+      value: 4.8600006
+      objectReference: {fileID: 0}
     - target: {fileID: 4636579838127298015, guid: 9ee577fb93b21654c86c20bd17e1bc07, type: 3}
       propertyPath: m_Enabled
       value: 1
@@ -15372,7 +15399,10 @@ PrefabInstance:
     m_RemovedComponents: []
     m_RemovedGameObjects: []
     m_AddedGameObjects: []
-    m_AddedComponents: []
+    m_AddedComponents:
+    - targetCorrespondingSourceObject: {fileID: 1816284468493644936, guid: 9ee577fb93b21654c86c20bd17e1bc07, type: 3}
+      insertIndex: -1
+      addedObject: {fileID: 103295931}
   m_SourcePrefab: {fileID: 100100000, guid: 9ee577fb93b21654c86c20bd17e1bc07, type: 3}
 --- !u!1001 &7387364733183372642
 PrefabInstance:
