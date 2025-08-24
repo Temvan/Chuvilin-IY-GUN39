@@ -144,7 +144,7 @@ namespace Tanks
                 {
                     ""name"": """",
                     ""id"": ""ef359246-3e1e-44e5-8139-dc7ceea76d6b"",
-                    ""path"": ""<Keyboard>/e"",
+                    ""path"": ""<Keyboard>/q"",
                     ""interactions"": """",
                     ""processors"": """",
                     ""groups"": """",
