@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Documents\\Netologia-GUN39\\C#_Unity\\HelloWorld\\HelloWorld.csproj": {}
+    "C:\\Documents\\Netologia-GUN39\\Chuvilin-IY-main\\C#_Unity\\HelloWorld\\HelloWorld.csproj": {}
   },
   "projects": {
-    "C:\\Documents\\Netologia-GUN39\\C#_Unity\\HelloWorld\\HelloWorld.csproj": {
+    "C:\\Documents\\Netologia-GUN39\\Chuvilin-IY-main\\C#_Unity\\HelloWorld\\HelloWorld.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Documents\\Netologia-GUN39\\C#_Unity\\HelloWorld\\HelloWorld.csproj",
+        "projectUniqueName": "C:\\Documents\\Netologia-GUN39\\Chuvilin-IY-main\\C#_Unity\\HelloWorld\\HelloWorld.csproj",
         "projectName": "HelloWorld",
-        "projectPath": "C:\\Documents\\Netologia-GUN39\\C#_Unity\\HelloWorld\\HelloWorld.csproj",
+        "projectPath": "C:\\Documents\\Netologia-GUN39\\Chuvilin-IY-main\\C#_Unity\\HelloWorld\\HelloWorld.csproj",
         "packagesPath": "C:\\Users\\Leopard\\.nuget\\packages\\",
-        "outputPath": "C:\\Documents\\Netologia-GUN39\\C#_Unity\\HelloWorld\\obj\\",
+        "outputPath": "C:\\Documents\\Netologia-GUN39\\Chuvilin-IY-main\\C#_Unity\\HelloWorld\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Leopard\\AppData\\Roaming\\NuGet\\NuGet.Config"
