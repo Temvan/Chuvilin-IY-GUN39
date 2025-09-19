@@ -1,0 +1,24 @@
+class Program
+{
+    static void Main(string[] args)
+    {
+        bool @bool = true; // 1 bit
+        byte @byte = 0; // 0..255, 1 byte Byte
+        sbyte @sbyte = 0; // -128..127 1 byte SByte
+        short @short = 125; // -32768..32767 2 byte Int16
+        ushort @ushort = 0; // 0..65535 2 byte UInt16
+        int a = 10; // -2147483648..2147483647 4 byte Int32
+        int b = 0b101; // бинарная форма b = 5
+        int c = 0xFF; // шестнадцатеричная форма c = 255
+        uint @uint = 150; // 0..4294967295 4 byte UInt32
+        long @long = 155L; // -9 223 372 036 854 775 808 .. 9 223 372 036 854 775 807 - 8 byte Int64
+        ulong @ulong = 18446744073709551615UL; // 0 .. 18 446 744 073 709 551 615 - 8 byte UInt64
+        float @float = 3.14F; // +-3.4*10^38..3.4*10^38 4 byte System.Single
+        double @double = 3.15E16; // +-5.0*10^-324 .. +-1.7*10^308 8 byte System.Double 15-16 знаков после запятой
+        decimal @decimal = 1.346621421243m; // +-1.0*10^-28 .. +-7.9228*10^28 16 byte System.Decimal (28 знаков после запятой)
+        char @char = 'c'; // Unicode 2 byte System.Char
+        string hello = "Hello";
+        string word = "World"; // Unicode array, System.String
+        object @object = null; // 4 byte в 32-х системах и 8 byte в 64-х системах
+    }
+}
